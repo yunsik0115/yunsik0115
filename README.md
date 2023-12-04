@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently Studying at University of Seoul Majoring in Electrical and Computer Engineering
-- 🌱 I’m currently learning Java based SPRING, SQL, Design Pattern
+- 🌱 I’m currently learning Java based SPRING, SQL, Design Pattern / Side Project In progress "Ithurts"
 - 📫 How to reach me: Contact me via yunsik0115@uos.ac.kr
 - ⚡ Peresonal Blog : <a href="https://progyun.tistory.com"> Please Visit My Blog for TIL & Retrospection</a>
 <!--
